@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.nav-bar{
+    background-color: black;
+    padding: 50px;
+}
+.nav-bar > a{
+    color: rgb(184, 179, 179);
+    text-decoration: none;
+    margin: 0px 50px;
+    
+}
+
+.below-line-paragraph{
+    color: rgb(184, 179, 179);
+    font-size: 20px;
+}
+
+.sub-page {
+   width: 800px;
+   margin-left: 12%;
+   text-align: start;
+    
+}
+
+.last-line{
+    color: rgb(184, 179, 179);
+    font-size: 15px;
+}
+
+.main-div{
+ display: grid;
+ grid-template-columns: auto auto;
+ text-align: start;
+}
+  .header {
+      margin-left: 25%;
+  }
+ .div-paragraph{
+    width: 50%;
+    margin: 0 auto;
+  
+} 
